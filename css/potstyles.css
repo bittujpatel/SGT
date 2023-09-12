@@ -2,33 +2,11 @@
   background-color: #B6C9F0
 }
 h1{
-font-family: 'Montserrat', sans-serif;
 font-size: 3rem;
 line-height: 1.5;
 color: white;
 }
 
-.navbar-brand{
-  font-family: 'Ubuntu', sans-serif;
-  font-size: 2rem;
-}
-.text-golden {
-  color: #F6CF23;
-}
-.nav-item{
-  padding-left: 15px;
-}
-.nav-link{
-  font-size: 1.5rem;
-}
-.titleBtn{
-  margin:5% 3% 5% 0;
-}
-.titleImg{
-  height: 28rem;
-  width:20rem
-  position: absolute;
-}
 #features{
   padding: 2% 0%;
   text-align: center;
@@ -48,8 +26,7 @@ color: white;
 }
 #testimonials{
   text-align: center;
-  background-color: #E4BAD4;
-  font-family: 'Ubuntu', sans-serif;
+  background-color: #F6CF23;
   color: white;
 }
 .testimonial-img{
@@ -89,7 +66,6 @@ color: white;
 }
 #cta h3{
   color:white;
-  font-family: 'Ubuntu', sans-serif;
   font-size:3rem;
 }
 .footerBtn{
